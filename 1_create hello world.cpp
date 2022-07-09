@@ -3,7 +3,8 @@
 
 int main(void)
 {
-	printf("Hello World");
+	printf("Hello World\n");
+	printf("How are you\n");
 	
 	for( int i = 0 ; i <= 10 ; i++ )
 		printf("%d ", i);
